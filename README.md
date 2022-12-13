@@ -1,3 +1,4 @@
+
 # Apple company revenue 2005-2020
 
 ## Time series analysis stat 454
@@ -17,6 +18,14 @@ This dataset is Apple quarterly revenue history and growth rate from 2005 to 202
 Revenue can be defined as the amount of money a company receives from its customers in exchange for the sales of goods or services
 The data shows Apple's quarterly revenue (in millions of US dollars)
 
+<img width="336" alt="Screenshot 1444-05-20 at 2 50 49 AM" src="https://user-images.githubusercontent.com/85292857/207470275-85e6e7df-d317-42a0-90af-4499f7afc84b.png">
+
 ## data
 
 https://www.macrotrends.net/stocks/charts/AAPL/apple/revenue
+
+## Forecasting 15 future value plot
+<img width="550" alt="Screenshot 1444-05-20 at 2 56 41 AM" src="https://user-images.githubusercontent.com/85292857/207470996-01849ad2-120f-4227-81fc-963b9c1bb247.png">
+
+
+
